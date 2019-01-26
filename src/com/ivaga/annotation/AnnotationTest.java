@@ -1,4 +1,4 @@
-package com.ivaga;
+package com.ivaga.annotation;
 
 
 

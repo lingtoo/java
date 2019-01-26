@@ -1,6 +1,6 @@
-package com.ivaga;
+package com.ivaga.annotation;
 
-import com.ivaga.Gender.GenderEnum;  
+import com.ivaga.annotation.Gender.GenderEnum;  
   
 /** 
  * 以注解标识的类 
